@@ -106,6 +106,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // async function paginate
+
     async function updateUser(userId) {
         console.log("entered update user");
     try {
